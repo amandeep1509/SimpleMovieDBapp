@@ -1,0 +1,10 @@
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ShowMovieDB\ShowMovieDB\bin\Debug\ShowMovieDB.exe.config
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ShowMovieDB\ShowMovieDB\obj\Debug\ShowMovieDB.csprojResolveAssemblyReference.cache
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ShowMovieDB\ShowMovieDB\obj\Debug\ShowMovieDB.Form1.resources
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ShowMovieDB\ShowMovieDB\obj\Debug\ShowMovieDB.Properties.Resources.resources
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ShowMovieDB\ShowMovieDB\obj\Debug\ShowMovieDB.csproj.GenerateResource.Cache
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ShowMovieDB\ShowMovieDB\bin\Debug\ShowMovieDB.exe
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ShowMovieDB\ShowMovieDB\bin\Debug\ShowMovieDB.pdb
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ShowMovieDB\ShowMovieDB\obj\Debug\ShowMovieDB.exe
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ShowMovieDB\ShowMovieDB\obj\Debug\ShowMovieDB.pdb
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ShowMovieDB\ShowMovieDB\obj\Debug\ShowMovieDB.Form2.resources
